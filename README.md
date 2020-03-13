@@ -5,7 +5,7 @@ This repository provides a reference implementation of the paper:
 > DBGE: Employee Turnover Prediction based on Dynamic Bipartite Graph Embedding. Xinjun Cai, Jiaxing Shang, Feiyi Liu, Ziwei Jin, Baohua Qiang, & Wu
 Xie
 
-which was submitted to the journal of IEEE Access.
+which was published in the journal of IEEE Access.
 
 
 
